@@ -1,5 +1,7 @@
 # Angular Mentions
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JhonatanMedeiros/angular-mentions.svg)](https://greenkeeper.io/)
+
 Simple Angular mentions inspired by [Ment.io](https://github.com/jeff-collins/ment.io).
 
 [Click here for a Demo](http://dmacfarlane.github.io/angular-mentions/)
